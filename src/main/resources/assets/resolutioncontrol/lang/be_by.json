@@ -1,0 +1,27 @@
+{
+  "key.categories.resolutioncontrol": "Resolution Control",
+
+  "key.resolutioncontrol.settings": "Налады Resolution Control",
+  "key.resolutioncontrol.screenshot": "Фонавы скрыншот",
+
+  "resolutioncontrol.settings.title": "Налады раздзялення",
+
+  "resolutioncontrol.settings.main": "Галоўнае",
+
+  "resolutioncontrol.settings.main.upscale": "Фільтр выс. раздзялення:",
+  "resolutioncontrol.settings.main.downscale": "Фільтр ніз. раздзялення:",
+  "resolutioncontrol.settings.main.linear": "Лінейны",
+  "resolutioncontrol.settings.main.nearest": "Бліжэйшы",
+  "resolutioncontrol.settings.main.estimate": "Ацэнка: %s",
+
+  "resolutioncontrol.settings.screenshot": "Скрыншоты",
+  "resolutioncontrol.settings.screenshot.overrideSize": "Выкарыстоўваць памер:",
+  "resolutioncontrol.settings.screenshot.alwaysAllocated": "Заўсёды захоўваць:",
+  "resolutioncontrol.settings.screenshot.size": "Памер:",
+
+  "resolutioncontrol.settings.info": "Падрабязней",
+  "resolutioncontrol.settings.info.gpu": "ЗГП:",
+  "resolutioncontrol.settings.info.maxTextureSize": "Макс. памер тэкстур:",
+
+  "resolutioncontrol.screenshot.wait": "Апрацоўка скрыншота..."
+}
